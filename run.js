@@ -1,6 +1,6 @@
 var fs = require('fs');
 var babel = require('babel-core');
-var autoAsync = require('./auto-async.js');
+var autoAsync = require('./index.js');
 
 // read the filename from the command line arguments
 var fileName = process.argv[2];
