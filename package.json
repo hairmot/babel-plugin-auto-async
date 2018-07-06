@@ -1,6 +1,6 @@
 {
-  "name": "auto-async",
-  "version": "1.0.0",
+  "name": "babel-plugin-auto-async",
+  "version": "1.0.1",
   "description": "Automatically makes functions asynchronous - makes for cleaner code when testing using HipTest generated mocha/js templates and selenium webdriver",
   "main": "",
   "scripts": {
